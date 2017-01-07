@@ -1,0 +1,15 @@
+/* DARK STYLESHEET */
+body  { color: #2e2e2e; background-color: #424242; }
+a:link, a:visited  { color: #000; }
+#top-nav  { background: #000; }
+#main-nav  { background: #000; }
+.nav a  { color:#a0a0a0; }
+#address { color: #a0a0a0; }
+#address .name  { color: #b2b2b2; }
+#content  { box-shadow: 0 0 10px #000; -moz-box-shadow: 0 0 10px #000; -webkit-box-shadow: 0 0 10px #000;  }
+.on-show  { background-color: #000; border: 3px solid rgba(255,255,255,0.4); }
+#content.single .title-block .on-show-text  { color: #000; }
+#single-meta .price, #main #idx-listing.single #dsidx-header table #dsidx-price td  { color: #000; }
+#loopedSlider.gallery .pagination li.active img  { border: 2px solid #000; }
+
+.button, .button:visited, .reply a, #main #idx-listing ol#dsidx-listings li .dsidx-price  { background-color: #000; }

@@ -1,0 +1,16 @@
+/* LIGHT BROWN STYLESHEET */
+a:link, a:visited  { color: #2BA3BE; }
+#logo {height: 80px; width: 520px;}
+#logo a {morgin-bottom: 0px;}
+#top-nav  { background: #C8C7BF; border-bottom: 1px solid #fff;}
+#wrapper #top-nav .nav li ul  { background: #948674; }
+#wrapper #top-nav .nav li ul li  { border-color: #000; }
+#main-nav  { background: #C8C7BF; }
+.nav a:hover, .nav li.current_page_item, .nav li.current_page_parent, .nav li.current-cat { background:#706250; color: #fff; }
+.nav a, #wrapper #top-nav .nav li ul li a   { color:#fff; }
+.on-show  { background-color: #AEAC95; border: 3px solid rgba(255,255,255,0.4); }
+#content.single .title-block .on-show-text  { color: #AEAC95; }
+#single-meta .price, #main #idx-listing.single #dsidx-header table #dsidx-price td  { color: #AEAC95; }
+#loopedSlider.gallery .pagination li.active img  { border: 2px solid #AEAC95; }
+
+.button, .button:visited, .reply a, #main #idx-listing ol#dsidx-listings li .dsidx-price  { background-color: #AEAC95!important; }

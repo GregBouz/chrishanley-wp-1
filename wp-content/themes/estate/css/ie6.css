@@ -1,0 +1,18 @@
+.nav .sf-sub-indicator { display:none; }
+.nav li a:hover { text-decoration:none; }
+.nav li a.sf-with-ul { padding-right:10px; }
+.button, .button:visited { margin:0; color:#555 !important; font-weight:normal; } .reply a {  color:#555 !important; }
+.on-show, .on-show.small  { padding: 5px 10px; font: bold 16px Helvetica, Arial, sans-serif; text-transform: uppercase; }
+#search #property-search *  { zoom: 1; }
+#search input.main-query  { width: 240px; }
+#property-webref-search  { z-index: 9999; position: relative; }
+#loopedSlider .slides .text  { overflow: hidden; }
+.property .entry  { position: relative; z-index: 9999; }
+#loopedSlider .price  { display: inline; width: auto; }
+.nav-buttons #p  { float: left; }
+.nav-buttons #n  { float: right; }
+.nav-buttons  { zoom:1;z-index: 9999;position: relative; left: 560px; top: 50px; }
+#tabs ul.wooTabs li  { margin: 0 0 -27px 0; }
+.property .price  { color: #fff!important; }
+.price.top  { width: auto; }
+.widget input.submit  { padding: 6px 5px; }

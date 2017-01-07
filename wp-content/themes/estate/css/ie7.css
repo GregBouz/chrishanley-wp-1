@@ -1,0 +1,8 @@
+.nav li a {_height: 0;zoom: 1;} /* IE7 Fix */
+.button, .button:visited {  padding:7px 6px; margin:0; }
+.on-show, .on-show.small  { padding: 5px 10px; font: bold 16px Helvetica, Arial, sans-serif; text-transform: uppercase; }
+#search input.main-query  { width: 300px; }
+#tabs ul.wooTabs li  { margin: 0 0 -27px 0; }
+.search-tab  { margin: 0 0 5px; }
+#property-mls-search  { zoom: 1; }
+.last  { clear: none; }

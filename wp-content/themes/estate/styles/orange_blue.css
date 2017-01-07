@@ -1,0 +1,30 @@
+/* ORANGE & BLUE STYLESHHET */
+body  { color: #2e2e2e; background-color: #a5c2cf; }
+a:link, a:visited  { color: #ff6c00; }
+#top-nav  { background: #125978; }
+#wrapper #top-nav .nav li ul  { background: #125978; }
+#wrapper #top-nav .nav li ul li  { border-color: #0a445d; }
+#main-nav  { background: #125978; }
+.nav a:hover, .nav li.current_page_item, .nav li.current_page_parent, .nav li.current-cat { background:#093a4f; color: #fff; }
+.nav a, #wrapper #top-nav .nav li ul li a   { color:#a8d2e5; }
+#address { color: #fff; }
+#address .name  { color: #125978; }
+#search  { background: #eae1d6; border-color: #d8c6b0; }
+#search .filters  { border-color: #d8c6b0; }
+#content  { background-color: #f4efe9; box-shadow: 0 0 10px #6f97aa; -moz-box-shadow: 0 0 10px #6f97aa; -webkit-box-shadow: 0 0 10px #6f97aa;  }
+.on-show  { background-color: #ff6c00; border: 3px solid rgba(255,255,255,0.4); }
+#content.single .title-block .on-show-text  { color: #000; }
+#single-meta .price, #main #idx-listing.single #dsidx-header table #dsidx-price td  { color: #ff6c00; }
+#loopedSlider.gallery .pagination li.active img  { border: 2px solid #ff6c00; }
+#footer, #footer a  { color: #fff; }
+
+#loopedSlider .slides .image img, #listings, .property, .title-block, #loopedSlider .features, #listings .features, #single-meta, #single-meta .price, #single-meta .contact, #single-property, #single-property .sub-features ul li, #loopedSlider.gallery .slides img, #loopedSlider.gallery .pagination li img, #archive-blog .post, .post .post-meta, .entry img, img.thumbnail, .widget h3, .widget_woo_twitter ul li, .widget_woo_flickr a img, .widget_woo_blogauthorinfo .avatar, #tabs .inside ul, #tabs .inside li, #comments, #comments .comment, #comments ul.children li, #comments p.nocomments, #search input.text, #main #idx-listing .title, #main #idx-listing .dsidx-paging-control, #main #idx-listing ol#dsidx-listings, #main #idx-listing ol#dsidx-listings li, #main #idx-listing ol#dsidx-listings .dsidx-media .dsidx-photo img, #main #idx-listing.idx-full .dsidx-paging-control.bottom, #main #idx-listing.idx-full ol#dsidx-listings .dsidx-media .dsidx-photo, #main #idx-listing.single #dsidx-actions, #main #idx-listing.single #dsidx-actions a, #main #idx-listing.single #dsidx table, #main #idx-listing.single #dsidx-header img, #main #idx-listing.single #dsidx-tiny-photos img, #main #idx-listing.single #dsidx-property-types, #main #idx-listing.single #dsidx-map   { border-color: #d8c6b0; }
+#wp-calendar th,#wp-calendar td, #tabs ul.wooTabs li a.selected, #tabs ul.wooTabs li a:hover, #tabs .inside, #main #idx-listing .dsidx-secondary-row  { background-color: #d8c6b0; }
+.title-block .sub-title  { color: #a77333; }
+
+.button, .button:visited, .reply a, #main #idx-listing ol#dsidx-listings li .dsidx-price  { background-color: #ff6c00!important; }
+
+.search-tab span  { background: #f1e8de; border-color: #d8c6b0; }
+.search-tab span.current  { background: #eae1d6; border-color: #d8c6b0; }
+.search-tab span a  { color: #d0bda6; }
+.search-tab span a:hover  { color: #25170d; }

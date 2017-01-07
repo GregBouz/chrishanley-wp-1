@@ -1,0 +1,17 @@
+/* GREEN AND BROWN STYLESHEET */
+body  { color: #2e2e2e; background-color: #e7edea; }
+a:link, a:visited  { color: #501c05; }
+#top-nav  { background: #22631f; }
+#wrapper #top-nav .nav li ul  { background: #22631f; }
+#wrapper #top-nav .nav li ul li  { border-color: #0f3b0d; }
+#main-nav  { background: #22631f; }
+.nav a:hover, .nav li.current_page_item, .nav li.current_page_parent, .nav li.current-cat { background:#0f3b0d; color: #fff; }
+.nav a, #wrapper #top-nav .nav li ul li a   { color:#85ad83; }
+#content  { background-color: #fff;  }
+.on-show  { background-color: #25170d; border: 3px solid rgba(255,255,255,0.4); }
+#content.single .title-block .on-show-text  { color: #501c05; }
+#single-meta .price, #main #idx-listing.single #dsidx-header table #dsidx-price td  { color: #501c05; }
+#loopedSlider.gallery .pagination li.active img  { border: 2px solid #501c05; }
+
+
+.button, .button:visited, .reply a, #main #idx-listing ol#dsidx-listings li .dsidx-price  { background-color: #501c05!important; }

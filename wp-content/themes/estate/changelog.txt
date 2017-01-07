@@ -1,0 +1,222 @@
+*** Estate Changelog ***
+
+2012.12.14 - version 1.4.4
+ * includes/js/loopedSlider.js - fix for WordPress 3.5
+
+2012.10.05 - version 1.4.3
+ * style.css - fixed lightbox z-index issue
+ * /includes/theme-functions.php - fixed search issue for price and size data type
+ 
+2012.09.10 - version 1.4.2
+ * /includes/theme-js.php - fixed jquery autocomplete load
+
+2012.06.28 - version 1.4.1
+ * /includes/theme-custom-post-types.php - added 'has_archive' parameter for post type archive page template
+ * archive-woo_estate.php - custom post type archive template
+ * index.php - modified View More link to link to the post type archive page
+ 
+2012.06.22 - version 1.4.0
+ * MAJOR UPDATE - Search Logic updated to accommodate 3.4 changes as well as pagination issues with query_posts
+ * /includes/theme-functions.php - added filter for search results to fix issues with query_posts and improved the search logic to leverage WordPress functionality more, added filter for pagination issues since 3.4
+ * /includes/property-search-results.php - modifications to fix the query_posts issues
+ 
+2012.06.11 - version 1.3.13
+ * includes/theme-custom-post-types.php - Additional error trapping on property add/edit
+ 
+2012.06.06 - version 1.3.12
+ * includes/theme-functions.php - Prevent Google Maps JS loading in the backend for non woo_estate post types
+ 
+2012.05.12 - version 1.3.11
+ * includes/featured.php,
+   includes/property-search-results.php,
+   includes/theme-custom-post-types.php,
+   includes/theme-functions.php,
+   index.php,
+   single-full-estate.php,
+   single-sidebar-estate.php,
+   taxonomy.php,
+   template-on-show.php - added explicit cast on number_format() param 1 to float type
+ 
+2012.03.26 - version 1.3.10
+ * includes/theme-functions.php - load map fields only of properties pages
+ * includes/theme-options.php - load custom fields only of properties pages
+ 
+2012.03.22 - version 1.3.9
+ * style.css - Added additional font formats for @font-face
+ * includes/fonts/* - Added additional font formats for @font-face
+
+2012.02.07 - version 1.3.8
+ * index.php, 
+   search.php, 
+   single-woo_estate.php, 
+   single-sidebar-estate.php, 
+   single-full-estate.php, 
+   includes/featured.php,
+   includes/property-search-results.php - swapped out old includes function for get_template_part for better child theme support
+ 
+2012.01.26 - version 1.3.7
+ * functions.php - made child theme friendly
+ * /includes/theme-options.php - made woo_options() pluggable
+
+2011.12.18 - version 1.3.6
+ * index.php - Added stripslashes to on show labels to avoid backslashes
+ * includes/featured.php - Added stripslashes to on show labels to avoid backslashes
+ * includes/property-search-results.php - Added stripslashes to on show labels to avoid backslashes
+ * taxonomy.php - Added stripslashes to on show labels to avoid backslashes
+ * template-on-show.php - Added stripslashes to on show labels to avoid backslashes
+
+2011.12.15 - version 1.3.5
+ * style.css - fixed z-index on #main-nav and #top-nav
+
+2011.11.16 - version 1.3.4
+ * style.css - fixes single slide bug
+ * includes/featured.php - fixes single slide bug
+ * header.php - fixes single slide bug
+ 
+2011.10.28 - version 1.3.3
+ * style.css - Single-property image gallery slider height bug fix for full width template
+
+2011.10.17 - version 1.3.2
+ * includes/theme-custom-post-types.php - Added support for hierarchical taxonomy URL's
+ 
+2011.09.05 - version 1.3.1
+ * includes/property-search.php - Force MLS city to be chosen in the search. Only affects idxpress plugin users.
+
+2011.08.10 - version 1.3.0
+ * includes/theme-functions.php,
+   includes/widgets/widget-woo-subscribe.php,
+   includes/theme-widgets.php,
+   includes/theme-options.php,
+   images/ico-social-X.png
+   single.php,
+   style.css - Added Subscribe & Connect to single blog post/widget
+
+2011.07.28 - version 1.2.9
+ * /includes/theme-functions.php - Bug fix for Google Maps plotting.
+ 
+2011.07.25 - version 1.2.8
+ * /includes/theme-functions.php - Improved plotting precision for Google Maps.
+ 
+2011.07.19 - version 1.2.7
+ * /includes/theme-functions.php - Fix for Google Maps zoom level for Chrome.
+ * taxonomy.php - fixed $count==3 check if no-sidebar selected
+ 
+2011.07.04 - version 1.2.6
+ * /includes/theme-custom-post-types.php - Fixed the bulk edit and quick edit for custom post types
+ * /includes/theme-functions.php - Added back missing woo_post_meta() function
+ 
+2011.06.20 - version 1.2.5
+ * /includes/theme-custom-post-types.php - Get the "Properties" post type's menu icon to change if the custom backend icon is in use.
+
+2011.05.03 - version 1.2.4
+ * /includes/theme-functions.php - updated pagination to use woo-pagination
+ * /includes/theme-options.php - added theme option for woo-pagination
+ * style.css - updated pagination styles
+ 
+2011.04.29 - version 1.2.3
+ * index.php - Added clearfix to no-sidebar property listing
+ * taxonomy.php - Added clearfix to no-sidebar property listing
+ * includes/property-search-results.php - Added clearfix to no-sidebar property listing
+
+2011.03.30 - version 1.2.2
+ * template-blog.php - Add blog page template
+ * style.css - Fixed Google maps bug for IE
+
+2011.02.24 - version 1.2.1
+ * /includes/theme-actions.php - added missing .button:visited code in the button output (line 70)
+
+2011.01.31 - version 1.2.0
+ * /includes/theme-functions.php - Upgraded Google Maps API to V3
+ * /includes/js/markers.js - Upgraded Google Maps API to V3
+ * header.php - Upgraded Google Maps API to V3
+ * single-full-estate.php - Upgraded Google Maps API to V3
+ * single-sidebar-estate.php - Upgraded Google Maps API to V3
+ * /includes/theme-options.php - Removed Google Maps API key, as V3 does not require an API key
+ 
+2011.01.24 - version 1.1.7
+ * /includes/gallery.php - Fixed gallery bug for single images and loopedslider conflict
+ 
+2011.01.05 - version 1.1.6
+ * template-contact.php - Fixed contact form template send to agent bug
+
+2010.11.29 - version 1.1.5
+ * /includes/theme-functions.php - upgraded the google maps functionality, fixes the thickbox issue on single property streetview.
+ * /style.css - fixed z-index menu bug
+ 
+2010.10.26 - version 1.1.4
+ * /includes/property-search.php - fixed autocomplete bug for unique locations
+ 
+2010.10.18 - version 1.1.3
+ * css/ie7.css - Fixed IE7 clearing bug.
+
+2010.10.06 - version 1.1.2
+ * template-contact.php - Fixed contact form template bug
+ 
+2010.09.21 - version 1.1.1
+ * style.css - Fixed IDX listing 'price' z-index
+
+2010.09.20 - version 1.1.0
+ * /includes/featured.php - modified to use On Show labels, custom feature icons theme options, theme option alignment fix
+ * /includes/js/general.php - added code to handle IDX plugin search toggling
+ * /includes/property-search.php - modified to use On Show labels, custom feature icons, search filter labels theme options, variable cleanup
+ * /includes/property-search-results.php - added code to output IDX search panel, variable cleanup
+ * /includes/theme-custom-post-types.php - modified to use On Show labels theme options, added custom message filters, added search custom matching logic, cleanup
+ * /includes/theme-functions.php - added custom array function woo_multidimensional_array_unique() and custom RSS feed output
+ * /includes/theme-options.php - added theme options for search custom matching, property icons, on show labels, search labels, IDX plugin integration, single property page labels
+ * /includes/theme-actions.php - variable cleanup
+ * /includes/widgets/widget-property-search.php - added property search sidebar widget
+ * header.php - variable cleanup
+ * index.php - modified to use On Show labels, custom feature icons theme options
+ * single-full-estate.php - modified to use On Show labels, custom feature icons theme options, variable cleanup
+ * single-sidebar-estate.php - modified to use On Show labels, custom feature icons theme options, variable cleanup
+ * style.css - added styles for IDX search panel & Listings
+ * taxonomy.php - modified to use On Show labels, custom feature icons theme options
+ * template-on-show.php - modified to use On Show labels, custom feature icons theme options
+ * css/ie7.css - IE hacks
+ * css/ie8.css - IE hacks
+ * styles/*.css - IDX styles for alt color schemes
+ * template-IDXlisting-full.php - Added full width IDX listing template
+ * template-IDXlisting-sidebar.php - Added IDX listing template with sidebar
+ * template-IDXsingle-full.php - Added full width IDX single page template
+ * template-IDXsingle-sidebar.php - Added IDX single page template with sidebar
+  
+ 
+2010.08.30 - version 1.0.7
+ * style.css - added line height to h1.title
+
+2010.08.26 - version 1.0.6
+ * /includes/widgets/widget-woo-property-search.php - added sidebar widget to search properties
+ * /includes/gallery.php - added image captions for lightbox
+ * /includes/property-search.php - unique autocomplete items for keyword input on property search
+ * /includes/theme-functions.php - unique multidimensional array function - woo_multidimensional_array_unique()
+ * /includes/theme-options.php - added theme options for Single Property page labels, contact form link
+ * single-full-estate.php - option for clickable additional features, contact form link for agent
+ * single-sidebar-estate.php - option for clickable additional features, contact form link for agent
+ * template-contact.php - send property enquiry to agent
+ 
+2010.08.20 - version 1.0.5
+ * single-full-estate.php - fixed agent gravatar bug
+ * single-sidebar-estate.php - fixed agent gravatar bug
+ * /includes/theme-functions.php - fixed agent gravatar bug
+ * /includes/theme-js.php - added agent gravatar js inclusion
+ * /includes/get-gravatar.php - added file
+ * /includes/js/getgravatar.php - added file
+ 
+2010.08.19 - version 1.0.4
+ * /includes/property-search.php - fixed output of labels to use _e() function
+ 
+2010.08.16 - version 1.0.3
+ * /includes/theme-custom-post-types.php - fixed bug in woo_taxonomy_matches() function for blank keyword and custom taxonomy search
+ 
+2010.08.02 - version 1.0.2
+ * /styles/*.css - Added alt styles
+
+2010.07.26 - version 1.0.1
+ * style.css - Changed featured slider buttons styling, so buttons slide with content.
+ * includes/featured.php - Changed slider nav buttons
+ * images/bg-slider-nav.png - Added file
+ * images/ico-slider-left.png - Deleted file
+ * images/ico-slider-right.png - Deleted file
+
+2010.xx.xx - version 1.0
+ * First release!

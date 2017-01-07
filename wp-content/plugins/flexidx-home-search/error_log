@@ -1,0 +1,5 @@
+[28-Aug-2014 20:21:15 America/Denver] PHP Fatal error:  Call to undefined function plugin_basename() in /home5/homestcr/public_html/beta/wp-content/plugins/flexidx-home-search/flexIDXHS.php on line 11
+[07-Sep-2014 04:34:41 America/Denver] PHP Fatal error:  Call to undefined function plugin_basename() in /home5/homestcr/public_html/beta/wp-content/plugins/flexidx-home-search/flexIDXHS.php on line 11
+[15-Sep-2014 22:23:22 America/Denver] PHP Fatal error:  Call to undefined function plugin_basename() in /home5/homestcr/public_html/beta/wp-content/plugins/flexidx-home-search/flexIDXHS.php on line 11
+[16-Sep-2014 17:35:19 America/Denver] PHP Fatal error:  Call to undefined function plugin_basename() in /home5/homestcr/public_html/beta/wp-content/plugins/flexidx-home-search/flexIDXHS.php on line 11
+[18-Sep-2014 13:57:51 America/Denver] PHP Fatal error:  Call to undefined function plugin_basename() in /home5/homestcr/public_html/beta/wp-content/plugins/flexidx-home-search/flexIDXHS.php on line 11

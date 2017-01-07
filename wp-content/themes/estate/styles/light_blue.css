@@ -1,0 +1,15 @@
+/* LIGHT BLUE STYLESHEET */
+body  { color: #2e2e2e; }
+a:link, a:visited  { color: #e2a070; }
+#top-nav  { background: #96adb7; }
+#wrapper #top-nav .nav li ul  { background: #96adb7; }
+#wrapper #top-nav .nav li ul li  { border-color: #6d8c97; }
+#main-nav  { background: #96adb7; }
+.nav a:hover, .nav li.current_page_item, .nav li.current_page_parent, .nav li.current-cat { background:#6d8c97; color: #fff; }
+.nav a, #wrapper #top-nav .nav li ul li a   { color:#fff; }
+.on-show  { background-color: #e2a070; border: 3px solid rgba(255,255,255,0.4); }
+#content.single .title-block .on-show-text  { color: #e2a070; }
+#single-meta .price, #main #idx-listing.single #dsidx-header table #dsidx-price td  { color: #e2a070; }
+#loopedSlider.gallery .pagination li.active img  { border: 2px solid #e2a070; }
+
+.button, .button:visited, .reply a, #main #idx-listing ol#dsidx-listings li .dsidx-price  { background-color: #e2a070!important; }

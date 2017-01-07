@@ -1,0 +1,129 @@
+[06-Nov-2013 03:13:44 America/Denver] PHP Notice:  Undefined index: email in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[12-Nov-2013 00:48:19 America/Denver] PHP Notice:  Undefined index: email in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[15-Feb-2014 20:47:46 America/Denver] PHP Notice:  Undefined index: email in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[16-Feb-2014 17:43:31 America/Denver] PHP Notice:  Undefined index: email in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[26-Apr-2014 12:37:16 America/Denver] PHP Notice:  Undefined index: email in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[14-Jun-2014 06:39:08 America/Denver] PHP Notice:  Undefined index: email in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[15-Jun-2014 21:28:21 America/Denver] PHP Notice:  Undefined index: email in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[09-Jul-2014 12:53:13 America/Denver] PHP Notice:  Undefined index: email in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[09-Jul-2014 12:53:40 America/Denver] PHP Notice:  Undefined index: email in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[31-Aug-2014 13:56:09 America/Denver] PHP Notice:  Undefined index: email in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[06-Sep-2014 23:21:02 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/sidebar-init.php on line 17
+[07-Sep-2014 18:29:04 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/theme-actions.php on line 20
+[08-Sep-2014 00:59:42 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/theme-custom-post-types.php on line 262
+[08-Sep-2014 05:06:04 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/theme-functions.php on line 27
+[08-Sep-2014 17:34:51 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/theme-custom-post-types.php on line 262
+[08-Sep-2014 18:07:45 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/theme-functions.php on line 27
+[08-Sep-2014 19:27:56 America/Denver] PHP Fatal error:  Call to undefined function get_option() in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/property-search.php on line 2
+[09-Sep-2014 00:44:49 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/theme-actions.php on line 20
+[09-Sep-2014 02:57:58 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/property-search-results.php on line 2
+[14-Sep-2014 14:44:24 America/Denver] PHP Fatal error:  Call to undefined function get_option() in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/featured.php on line 2
+[15-Sep-2014 03:49:41 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/theme-custom-post-types.php on line 262
+[16-Sep-2014 09:37:21 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/theme-options.php on line 3
+[16-Sep-2014 18:00:44 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/theme-options.php on line 3
+[17-Sep-2014 05:33:37 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/theme-functions.php on line 27
+[17-Sep-2014 09:39:35 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/theme-options.php on line 3
+[18-Sep-2014 06:11:51 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/theme-functions.php on line 27
+[18-Sep-2014 16:34:56 America/Denver] PHP Fatal error:  Call to undefined function is_admin() in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/theme-js.php on line 2
+[19-Sep-2014 01:43:17 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/property-search-results.php on line 2
+[20-Sep-2014 10:23:12 America/Denver] PHP Fatal error:  Call to undefined function get_option() in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/property-search.php on line 2
+[22-Sep-2014 05:32:05 America/Denver] PHP Notice:  Undefined index: email in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[22-Sep-2014 10:20:44 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/property-search-results.php on line 2
+[22-Sep-2014 19:13:30 America/Denver] PHP Notice:  Undefined index: email in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[23-Sep-2014 11:11:32 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/property-search-results.php on line 2
+[24-Sep-2014 16:16:48 America/Denver] PHP Fatal error:  Call to undefined function get_option() in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/featured.php on line 2
+[24-Sep-2014 18:41:18 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/property-search-results.php on line 2
+[25-Sep-2014 20:23:00 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/sidebar-init.php on line 17
+[03-Oct-2014 20:47:59 America/Denver] PHP Notice:  Undefined index: email in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[07-Oct-2014 06:15:15 America/Denver] PHP Notice:  Undefined index: email in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[08-Oct-2014 04:46:06 America/Denver] PHP Notice:  Undefined index: email in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[05-Nov-2014 15:34:47 America/Denver] PHP Notice:  Undefined index: email in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[13-Nov-2014 11:29:13 America/Denver] PHP Notice:  Undefined index: email in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[14-Nov-2014 14:15:53 America/Denver] PHP Notice:  Undefined index: email in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[01-Dec-2014 04:47:02 America/Denver] PHP Notice:  Undefined index: email in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[11-Dec-2014 07:58:27 America/Denver] PHP Notice:  Undefined index: email in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[12-Dec-2014 21:47:02 America/Denver] PHP Notice:  Undefined index: email in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[15-Dec-2014 11:42:52 America/Denver] PHP Notice:  Undefined index: email in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[04-Jan-2015 13:45:45 America/Denver] PHP Notice:  Undefined index: email in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[22-Jan-2015 12:24:21 America/Denver] PHP Notice:  Undefined index: email in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[16-Feb-2015 06:55:07 America/Denver] PHP Notice:  Undefined index: email in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[19-Feb-2015 17:06:25 America/Denver] PHP Notice:  Undefined index: email in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[07-Mar-2015 23:19:44 America/Denver] PHP Notice:  Undefined index: email in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[08-Apr-2015 23:26:34 America/Denver] PHP Notice:  Undefined index: email in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[15-Apr-2015 17:38:34 America/Denver] PHP Notice:  Undefined index: email in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[17-Apr-2015 05:09:40 America/Denver] PHP Notice:  Undefined index: email in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[19-Apr-2015 16:18:54 America/Denver] PHP Notice:  Undefined index: email in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[20-Apr-2015 05:34:07 America/Denver] PHP Notice:  Undefined index: email in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[20-Apr-2015 07:15:23 America/Denver] PHP Notice:  Undefined index: email in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[20-Apr-2015 15:47:37 America/Denver] PHP Notice:  Undefined index: email in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[21-Apr-2015 08:38:04 America/Denver] PHP Notice:  Undefined index: email in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[21-Apr-2015 10:57:49 America/Denver] PHP Notice:  Undefined index: email in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[22-Apr-2015 07:27:41 America/Denver] PHP Notice:  Undefined index: email in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[22-Apr-2015 07:40:18 America/Denver] PHP Notice:  Undefined index: email in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[22-Apr-2015 08:25:43 America/Denver] PHP Notice:  Undefined index: email in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[22-Apr-2015 08:50:34 America/Denver] PHP Notice:  Undefined index: email in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[22-Apr-2015 08:58:26 America/Denver] PHP Notice:  Undefined index: email in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[23-Apr-2015 18:52:12 America/Denver] PHP Notice:  Undefined index: email in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[24-Apr-2015 08:46:43 America/Denver] PHP Notice:  Undefined index: email in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[05-May-2015 11:10:38 America/Denver] PHP Notice:  Undefined index: email in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[16-Jun-2015 19:02:38 America/Denver] PHP Notice:  Undefined index: email in /home5/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[20-Jul-2015 09:45:11 America/Denver] PHP Notice:  Undefined index: email in /home1/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[21-Jul-2015 21:21:26 America/Denver] PHP Notice:  Undefined index: email in /home1/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[13-Aug-2015 10:40:41 America/Denver] PHP Notice:  Undefined index: email in /home1/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[24-Aug-2015 17:29:41 America/Denver] PHP Notice:  Undefined index: email in /home1/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[29-Aug-2015 11:00:45 America/Denver] PHP Notice:  Undefined index: email in /home1/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[10-Sep-2015 12:41:30 America/Denver] PHP Notice:  Undefined index: email in /home1/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[10-Sep-2015 12:41:30 America/Denver] PHP Notice:  Undefined index: email in /home1/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[14-Sep-2015 00:35:52 America/Denver] PHP Notice:  Undefined index: email in /home1/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[17-Sep-2015 17:03:51 America/Denver] PHP Notice:  Undefined index: email in /home1/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[18-Sep-2015 06:02:34 America/Denver] PHP Notice:  Undefined index: email in /home1/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[20-Sep-2015 05:41:04 America/Denver] PHP Notice:  Undefined index: email in /home1/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[21-Sep-2015 06:14:23 America/Denver] PHP Notice:  Undefined index: email in /home1/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[22-Sep-2015 14:50:16 America/Denver] PHP Notice:  Undefined index: email in /home1/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[23-Sep-2015 15:55:00 America/Denver] PHP Notice:  Undefined index: email in /home1/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[23-Sep-2015 20:56:04 America/Denver] PHP Notice:  Undefined index: email in /home1/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[09-Oct-2015 20:12:27 America/Denver] PHP Notice:  Undefined index: email in /home1/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[12-Oct-2015 01:34:18 America/Denver] PHP Notice:  Undefined index: email in /home1/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[16-Oct-2015 20:59:38 America/Denver] PHP Notice:  Undefined index: email in /home1/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[19-Oct-2015 16:23:44 America/Denver] PHP Notice:  Undefined index: email in /home1/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[13-Nov-2015 19:06:22 America/Denver] PHP Notice:  Undefined index: email in /home1/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[24-Nov-2015 12:32:18 America/Denver] PHP Notice:  Undefined index: email in /home1/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[03-Dec-2015 15:47:41 America/Denver] PHP Notice:  Undefined index: email in /home1/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[05-Dec-2015 07:12:35 America/Denver] PHP Notice:  Undefined index: email in /home1/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[06-Dec-2015 16:00:50 America/Denver] PHP Notice:  Undefined index: email in /home1/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[01-Mar-2016 19:25:21 America/Denver] PHP Notice:  Undefined index: email in /home1/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[15-Mar-2016 01:18:51 America/Denver] PHP Notice:  Undefined index: email in /home1/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[05-May-2016 06:42:44 America/Denver] PHP Notice:  Undefined index: email in /home1/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[10-May-2016 16:18:38 America/Denver] PHP Notice:  Undefined index: email in /home1/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[11-May-2016 16:29:34 America/Denver] PHP Notice:  Undefined index: email in /home1/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[13-May-2016 11:06:59 America/Denver] PHP Notice:  Undefined index: email in /home1/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[27-May-2016 05:21:49 America/Denver] PHP Notice:  Undefined index: email in /home1/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[28-May-2016 18:54:02 America/Denver] PHP Notice:  Undefined index: email in /home1/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[04-Jun-2016 15:09:58 America/Denver] PHP Notice:  Undefined index: email in /home1/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[07-Jun-2016 12:45:55 America/Denver] PHP Notice:  Undefined index: email in /home1/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[11-Jun-2016 12:46:34 America/Denver] PHP Notice:  Undefined index: email in /home1/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[13-Jun-2016 21:00:04 America/Denver] PHP Notice:  Undefined index: email in /home1/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[19-Jun-2016 04:16:30 America/Denver] PHP Notice:  Undefined index: email in /home1/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[09-Jul-2016 20:20:41 America/Denver] PHP Notice:  Undefined index: email in /home1/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[09-Jul-2016 20:20:45 America/Denver] PHP Notice:  Undefined index: email in /home1/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[27-Jul-2016 01:33:37 America/Denver] PHP Notice:  Undefined index: email in /home1/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[05-Aug-2016 03:48:46 America/Denver] PHP Notice:  Undefined index: email in /home1/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[13-Aug-2016 01:55:24 America/Denver] PHP Notice:  Undefined index: email in /home1/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[02-Sep-2016 07:31:47 America/Denver] PHP Notice:  Undefined index: email in /home1/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[13-Sep-2016 07:28:27 America/Denver] PHP Notice:  Undefined index: email in /home1/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[18-Sep-2016 07:48:23 America/Denver] PHP Notice:  Undefined index: email in /home1/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[24-Sep-2016 08:35:53 America/Denver] PHP Notice:  Undefined index: email in /home1/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[09-Oct-2016 03:17:43 America/Denver] PHP Notice:  Undefined index: email in /home1/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[11-Oct-2016 00:24:03 America/Denver] PHP Notice:  Undefined index: email in /home1/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[22-Oct-2016 02:08:40 America/Denver] PHP Notice:  Undefined index: email in /home1/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[25-Oct-2016 03:36:59 America/Denver] PHP Notice:  Undefined index: email in /home1/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[25-Oct-2016 03:37:22 America/Denver] PHP Notice:  Undefined index: email in /home1/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[04-Nov-2016 03:33:02 America/Denver] PHP Notice:  Undefined index: email in /home1/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[15-Nov-2016 13:09:25 America/Denver] PHP Notice:  Undefined index: email in /home1/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[15-Nov-2016 17:12:10 America/Denver] PHP Notice:  Undefined index: email in /home1/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[20-Nov-2016 14:14:14 America/Denver] PHP Notice:  Undefined index: email in /home1/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[22-Nov-2016 02:23:18 America/Denver] PHP Notice:  Undefined index: email in /home1/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[04-Dec-2016 23:27:58 America/Denver] PHP Notice:  Undefined index: email in /home1/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[06-Dec-2016 09:35:20 America/Denver] PHP Notice:  Undefined index: email in /home1/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[08-Dec-2016 22:12:22 America/Denver] PHP Notice:  Undefined index: email in /home1/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
+[11-Dec-2016 17:57:52 America/Denver] PHP Notice:  Undefined index: email in /home1/homestcr/public_html/beta/wp-content/themes/estate/includes/get-gravatar.php on line 3
